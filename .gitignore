@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Kit / Omniverse generated content
+_build/
+build/
+cache/
+logs/
+renders/
+
+# Rubin Scheduler large/generated products
+rubin_sim_data/
+*.db
+
+# Editor / OS noise
+.DS_Store
+*~
+.vscode/
