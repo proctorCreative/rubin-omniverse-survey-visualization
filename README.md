@@ -4,7 +4,9 @@ An interactive technical visualization of simulated Vera C. Rubin Observatory su
 
 The project drives an articulated Rubin telescope model through simulated survey visits while survey field markers accumulate on a time-varying celestial sky.
 
-This project uses **simulated survey data** and does not represent live Rubin telescope telemetry.
+This project uses simulated survey data, models and star maps from public sources and does not represent live Rubin telescope telemetry (see Credits and Data Sources, below).
+
+This is an independent project and is not an official publication or product of NSF NOIRLab, AURA, or Vera C. Rubin Observatory. The contents and interpretations are those of the author.
 
 ## Credits and Data Sources
 
