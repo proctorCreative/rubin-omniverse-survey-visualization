@@ -54,7 +54,7 @@ tools/
     └── precompute_footprint_motion.py
 
 docs/
-├── UPDATE_WORKFLOW.md
+└── UPDATE_WORKFLOW.md
 ```
 
 ## Coordinate conventions
