@@ -189,15 +189,4 @@ See `CREDITS.md`.
 
 ## Project goals
 
-This project explores scientific data integration, CAD-to-USD asset preparation, articulated scene control, astronomical coordinate systems, time-varying visualization, OpenUSD metadata, custom Omniverse Kit development, and interactive technical storytelling.
-
-## Future improvements
-
-- more realistic field-of-view geometry
-- continuous sidereal motion during slews
-- richer scheduler analytics
-- additional metadata displays
-- camera presets and presentation modes
-- larger survey sequences
-- revisit-density and cadence visualization
-- survey strategy comparison
+The main purpose of this project is to help me get more familiar with Omniverse and a Blender-to-Omniverse workflow. This project explores scientific data integration, CAD-to-USD asset preparation, articulated scene control, astronomical coordinate systems, time-varying visualization, OpenUSD metadata, custom Omniverse Kit development, and interactive technical storytelling.
