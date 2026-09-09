@@ -1,3 +1,6 @@
+
+-- This software contains source code provided by NVIDIA Corporation.
+
 -- Use folder name to build extension name and tag. Version is specified explicitly.
 local ext = get_current_extension_info()
 
