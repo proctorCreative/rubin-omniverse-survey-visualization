@@ -24,4 +24,4 @@ Source: https://github.com/lsst/rubin_scheduler/tree/main
 
 ### Oops / Mea Culpa
 
-I accidentally set up the repo in the wrong directory and pushed code that was not mine. This is why there are several other contributors credited, but I don't know how to remove them. They are doing good work on their projects, but don't blame them for whatever I am doing here. :)
+I accidentally set up the repo in the wrong directory and pushed code that was not mine. This is why there are several other contributors credited. I cleaned up the repo, but I don't know how to remove them. They are doing good work on their own projects, but don't blame them for whatever I am doing here. :)
