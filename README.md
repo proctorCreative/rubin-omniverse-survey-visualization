@@ -10,7 +10,9 @@ This is an independent project and is not an official publication or product of 
 
 ## Credits and Data Sources
 
-### This software contains source code provided by NVIDIA Corporation.
+### This software depends on Omniverse and source code provided by NVIDIA Corporation.
+
+Some sources are absent because they were based on NVIDIA-provided templates and the license forbids redistribution.
 
 ### 3D Model: CAD models of Rubin Observatory Telescope
 
