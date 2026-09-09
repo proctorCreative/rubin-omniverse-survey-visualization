@@ -43,7 +43,7 @@ The repository includes the resulting project-specific USD asset:
 assets/usd/rubin_telescope.usdc
 ```
 
-Please consult the original NOIRLab/Rubin source page for the authoritative licensing and attribution requirements applicable to the source model.
+Used under the Creative Commons Attribution License. Please consult the original NOIRLab/Rubin source page for the authoritative licensing and attribution requirements applicable to the source model.
 
 ## Rubin Scheduler
 
