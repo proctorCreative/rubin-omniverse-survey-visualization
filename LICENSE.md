@@ -1,4 +1,5 @@
-## This software contains source code provided by NVIDIA Corporation.
+### This software depends on Omniverse and source code provided by NVIDIA Corporation.
 
-NVIDIA-derived files remain governed by NVIDIA terms and retain their notices;
-third-party assets are governed by their respective licenses.
+Some sources are absent because they were based on NVIDIA-provided templates and the license forbids redistribution.
+
+NVIDIA Omniverse/Kit and Warp are dependencies governed by their respective NVIDIA terms and are not licensed by the MIT license.
