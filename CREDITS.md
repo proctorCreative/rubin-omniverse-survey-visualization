@@ -21,3 +21,7 @@ Source: https://svs.gsfc.nasa.gov/4851/
 Vera C. Rubin Observatory rubin_scheduler, an open-source implementation of the Feature Based Scheduler used to simulate and evaluate LSST observing strategies. The project repository is maintained by the Rubin/LSST software team and is released under GPL-3.0.
 
 Source: https://github.com/lsst/rubin_scheduler/tree/main
+
+### Oops / Mea Culpa
+
+I accidentally set up the repo in the wrong directory and pushed code that was not mine. This is why there are several other contributors credited, but I don't know how to remove them. They are doing good work on their projects, but don't blame them for whatever I am doing here. :)
