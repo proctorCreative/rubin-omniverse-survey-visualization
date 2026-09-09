@@ -1,3 +1,6 @@
+
+# This software contains source code provided by NVIDIA Corporation.
+
 import csv
 import math
 import time
