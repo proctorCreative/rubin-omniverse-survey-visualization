@@ -10,6 +10,8 @@ This is an independent project and is not an official publication or product of 
 
 ## Credits and Data Sources
 
+### This software contains source code provided by NVIDIA Corporation.
+
 ### 3D Model: CAD models of Rubin Observatory Telescope
 
 RubinObs/NSF/AURA
