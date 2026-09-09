@@ -14,6 +14,8 @@ This is an independent project and is not an official publication or product of 
 
 Some sources are absent because they were based on NVIDIA-provided templates and the license forbids redistribution.
 
+NVIDIA Omniverse/Kit and Warp are dependencies governed by their respective NVIDIA terms and are not licensed by the MIT license.
+
 ### 3D Model: CAD models of Rubin Observatory Telescope
 
 RubinObs/NSF/AURA (CC-By)
