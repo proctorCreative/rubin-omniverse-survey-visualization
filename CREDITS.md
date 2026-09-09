@@ -2,7 +2,7 @@
 
 ### 3D Model: CAD models of Rubin Observatory Telescope
 
-RubinObs/NSF/AURA
+RubinObs/NSF/AURA (CC-By)
 
 Source: https://noirlab.edu/public/products/models3d/Rubin-CAD-201801/
 
